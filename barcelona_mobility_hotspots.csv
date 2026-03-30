@@ -1,0 +1,6 @@
+[
+  "tests/test_benchmark.py::test_benchmark_runs",
+  "tests/test_orchestrator.py::test_safety_prefers_classical",
+  "tests/test_runtime.py::test_runtime_step_generates_record",
+  "tests/test_scenarios.py::test_scenarios_load"
+]
